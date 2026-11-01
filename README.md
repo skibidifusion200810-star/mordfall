@@ -6,7 +6,7 @@ Spielbare erste Version von **Das Schweigen der Villa**. Komplett als statische 
 - Modernes dunkles Interface, responsives Layout
 - Private Lobby mit sechsstelligen Einladungscodes
 - 2–6 Spieler über direkte PeerJS/WebRTC-Verbindungen (ohne selbst gehosteten Server)
-- Sieben visuelle Point-and-Click-Räume, 12 anklickbare Hinweise
+- Sieben visuelle Point-and-Click-Räume, 14 anklickbare Hinweise
 - Fünf Verdächtige mit interaktiven Fragen und durch Beweise freigeschalteten Aussagen
 - Gemeinsame Beweise, Live-Ermittlungsfeed und Teamstatus
 - Beweiswand, Täteranklage und vollständige Auflösung
